@@ -7,7 +7,7 @@
  - Libélula
  - Khipu
 
-Note: Most of this methods wont work if run on a local server, they need to be deployed into a web page in order to pass the CORS preflight request due to security reasons.
+Note: These methods wont work if run on a local server, they need to be deployed into a web page in order to pass the CORS preflight request due to security reasons, as well as be properly implemented into your business logic.
 
 ## Development server
 
