@@ -3,7 +3,7 @@
  This is an Angular project that contains templates for the integration to the following payment gateways:
  
  - BNB (Banco Nacional de Bolivia) dynamic QR generation.
- - Cybersource
+ - Cybersource (Silent Post)
  - Libélula
  - Khipu
 
